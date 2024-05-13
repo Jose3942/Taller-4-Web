@@ -1,4 +1,4 @@
-const RESOURCES_PATH = "../recursos";
+const RESOURCES_PATH = "./recursos";
 const body = document.body;
 const br = document.createElement("br");
 
